@@ -15,9 +15,4 @@ MyChatBot is a Streamlit-based AI chatbot that allows users to upload a PDF and 
 - OpenAI
 - FAISS
 
-## 🚀 Setup Instructions
 
-Clone the repository:
-```bash
-git clone https://github.com/Shweta0501/mychatbot.git
-cd mychatbot
